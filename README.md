@@ -1,2 +1,2 @@
-# Task-Timer
-This is my mini project - Task Timer built using HTML , CSS , Javascript
+# Mini-Project-Task-Timer
+This is my mini project - Task Timer built using HTML, CSS , Javascript
